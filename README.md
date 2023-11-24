@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Abrar Tayyab
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abrar-Tayyab)](https://github.com/Abrar-Tayyab/github-profile-trophy)
 <!--
 **Abrar-Tayyab/Abrar-Tayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
