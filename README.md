@@ -1,4 +1,4 @@
-### Hi 👋, I'm Abrar Tayyab
+Hi 👋, I'm Abrar Tayyab
 
 <!--
 **Abrar-Tayyab/Abrar-Tayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
