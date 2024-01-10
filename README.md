@@ -31,7 +31,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,oracle,postman,sql-server,sass,js,gi,css,html,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postman,sass,js,jquery,git,css,html,bootstrap&perline=6)](https://skillicons.dev)
 [![Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
 
 ## 🏆 My Stats:
