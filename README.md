@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center"> [Hello World 👋, I'm Abrar Tayyab](https://github.com/abrar-tayyab)</h1>
+
+##<h1 align="center">Hello World 👋, I'm Abrar Tayyab</h1>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abrartayyab/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abrar.tayyab.3@gmail.com?subject=Hello%20Abrar,%20From%20Github)
