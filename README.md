@@ -8,13 +8,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I’m currently working at [P33R Finance](https://www.php.net/), [Laravel](https://laravel.com/).
-- 🌱 I’m passionate about Bancekd.
-- 📝 I’m aiming to write **one article per week** starting from November 2023.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
-
-- 🔭 I’m currently working at [P33R Finance](https://www.php.net/), [Laravel](https://laravel.com/).
+- 🔭 I’m currently working on [PHP](https://www.php.net/), [Laravel](https://laravel.com/).
 
 - 🌱 I’m currently learning **[react](https://react.dev/) and [vue.js](https://vuejs.org/)**
 
@@ -32,7 +26,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postman,sass,js,jquery,git,css,html,bootstrap&perline=6)](https://skillicons.dev)
-[![Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
