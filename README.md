@@ -1,7 +1,5 @@
 <div align="center">
-
-[![Hello World, I'm Abrar Tayyab!](assets/header.gif)](https://github.com/abrar-tayyab)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[!Hello World 👋, I'm Abrar Tayyab!](https://github.com/abrar-tayyab)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abrartayyab/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abrar.tayyab.3@gmail.com?subject=Hello%20Abrar,%20From%20Github)
