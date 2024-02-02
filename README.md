@@ -1,6 +1,9 @@
 <div align="center">
+## <h1 align="center">Salam! 👋, I'm Abrar Tayyab</h1>
 
-## <h1 align="center">Hello World 👋, I'm Abrar Tayyab</h1>
+ ![Free Palestine](https://img.shields.io/badge/FreePalestine-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+ [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abrartayyab/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abrar.tayyab.3@gmail.com?subject=Hello%20Abrar,%20From%20Github)
@@ -27,7 +30,11 @@
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postman,sass,js,jquery,git,css,html,bootstrap,github&perline=6)](https://skillicons.dev)
 
 ## 🏆 My Stats:
-
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=abrar-tayyab&theme=vision-friendly-dark&card_width=800)](https://github.com/abrar-tayyab?tab=repositories)             
+ ![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-tayyab&show_icons=true&theme=codeSTACKr&card_width=800)         
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-tayyab&layout=donut&theme=vision-friendly-dark&card_width=750)](https://github.com/abrar-tayyab?tab=repositories)
+ 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrar-tayyab&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-tayyab&layout=compact&theme=dark" />&nbsp;&nbsp;
