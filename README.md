@@ -27,7 +27,9 @@
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postman,sass,js,jquery,git,css,html,bootstrap,github&perline=6)](https://skillicons.dev)
+
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=sondosaabed&theme=vision-friendly-dark&card_width=800)](https://github.com/sondosaabed?tab=repositories)  
 
 ## 🏆 My Stats:
  
