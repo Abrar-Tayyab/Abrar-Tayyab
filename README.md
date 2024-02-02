@@ -31,9 +31,10 @@
 
 ## 🏆 My Stats:
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=abrar-tayyab&theme=vision-friendly-dark&card_width=800)](https://github.com/abrar-tayyab?tab=repositories)
  
 <p>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=abrar-tayyab&theme=vision-friendly-dark&card_width=800)](https://github.com/abrar-tayyab?tab=repositories)
+ 
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrar-tayyab&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-tayyab&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
